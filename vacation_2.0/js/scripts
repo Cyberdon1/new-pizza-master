@@ -1,0 +1,4 @@
+$(#typespan)
+text(pizza.type)
+pizza.toppings.foreach.left
+($topp.span);
